@@ -38,8 +38,6 @@ This approach supports better investment decision-making by identifying low-risk
 1. Ensure the SQLite database (`fcp_database.db`) is available
 2. Update asset tickers if needed
 3. Run the script:
-```bash
-python Portfolio_optimization.py
 
 
 ---
