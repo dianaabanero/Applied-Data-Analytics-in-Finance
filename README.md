@@ -44,7 +44,6 @@ This approach supports better investment decision-making by identifying low-risk
 
 # 📈 Proyecto 2: Sales Prediction (te lo estructuro aunque no pude ver el archivo completo)
 
-```markdown
 # Sales Prediction using Statistical Analysis
 
 ## Objective
